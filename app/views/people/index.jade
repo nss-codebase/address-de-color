@@ -14,5 +14,14 @@ html
         li: a(href='/contact') Contact
         li: a(href='/people') People
 
-    h2 Home Page!
+    h2 People Page!
+
+    each person in people
+      .person
+        ul
+          li= person.name
+          li= person.email
+          li= person.color
+          li= person.website
+          li= person.phone
 
