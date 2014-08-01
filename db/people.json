@@ -1,0 +1,8 @@
+[
+  {"name":"Bob Smith", "email":"bob@aol.com", "phone":"615-555-1212", "color":"pink", "website":"http://cnn.com"},
+  {"name":"Sue James", "email":"sue@aol.com", "phone":"615-333-3212", "color":"orange", "website":"http://google.com"},
+  {"name":"Jan Smith", "email":"jan@aol.com", "phone":"615-444-4212", "color":"red", "website":"http://msnbc.com"},
+  {"name":"Bil Vally", "email":"bil@aol.com", "phone":"615-777-5212", "color":"purple", "website":"http://twitter.com"},
+  {"name":"Mob Donni", "email":"mob@aol.com", "phone":"615-888-7212", "color":"blue", "website":"http://yahoo.com"}
+]
+
